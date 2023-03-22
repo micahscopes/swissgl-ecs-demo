@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@petamoriken/float16": "^3.7.1",
+    "sim-ecs": "^0.6.0",
+    "swissgl": "github:micahscopes/swissgl"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
